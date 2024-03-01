@@ -1,4 +1,4 @@
-Scheduler, Archiver written in Delphi 7 with full source code.
+Scheduler, Archiver, Planner written in Delphi 7 with full source code.
 EhLib, VCLZip and CoolTrayIcon libraries are used.
 The project includes an exe file and source code.
 TClientDataSet is used to store tasks in xml format.
